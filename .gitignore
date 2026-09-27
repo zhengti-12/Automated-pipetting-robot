@@ -1,0 +1,4 @@
+wells*.json
+wells*_annotated.jpg
+*.HEIC
+__pycache__/

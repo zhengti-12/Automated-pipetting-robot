@@ -94,16 +94,11 @@ In the annotated image, green circles are wells whose measurement agreed with th
 
 ## Camera setup tips
 
-- Mount the camera **perpendicular to the table and centred over the plate**. This removes most of the double-rim effect.
-- Mount it as high as practical and zoom or crop in, so edge wells are seen closer to straight-on.
-- Use diffuse lighting, or a backlight under the plate, and a matte dark surface to reduce glare.
-- Detection takes a few seconds on typical camera resolutions (1–5 MP), and longer on 24 MP phone photos.
+- Mount the camera perpendicular to the table and centred over the plate. This wil remove most of the double-rim effect so the program can pick up up on the circles.
+- Mount it as high as practical and zoom or crop in, so edge wells are seen closer to straight-on
+- Use a dark surface and backlit lighting
+- Detection takes a few seconds on typical camera resolutions (1–5 MP), and longer on 24 MP phone photos
 
-## Roadmap
-
-- Pixel → robot coordinate calibration (jog the tip to a few known wells, fit a transform to mm)
-- Live preview mode with on-demand detection
-- Presets for common plate formats (6/12/24/48/96/384-well)
 
 ## Files
 
